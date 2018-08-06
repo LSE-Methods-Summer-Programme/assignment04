@@ -1,6 +1,6 @@
 ---
 title: "Lab 4 - Linear Regression"
-author: "Your name here"
+author: "Qin Yu"
 output: html_document
 ---
 
